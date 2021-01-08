@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://github.com/iamgervas/iamgervas/blob/master/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/iamgervas)
+
 
